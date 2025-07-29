@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Painel Studio W</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #121212;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        .logo {
+            width: 120px;
+            height: 120px;
+            background-color: #aecbad;
+            border-radius: 50%;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .username {
+            font-size: 1.2em;
+            margin-bottom: 40px;
+            font-weight: bold;
+        }
+
+        .link-button {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;  /* ← alinhar tudo à esquerda */
+        background-color: #1e1e1e;
+        border: 1px solid #333;
+        border-radius: 10px;
+        width: 100%;
+        max-width: 500px;
+        padding: 15px 20px;
+        margin-bottom: 15px;
+        text-decoration: none;
+        color: white;
+        transition: background 0.2s;
+}
+
+
+        .link-button:hover {
+            background-color: #2a2a2a;
+        }
+
+        .logo-img {
+            width: 250px;
+            height: auto;
+            margin: 0 auto 20px;
+            display: block;
+        }
+        
+        .link-left {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .link-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 5px;
+            object-fit: cover;
+        }
+
+        .logout {
+            margin-top: 30px;
+            color: #ccc;
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+
+        .logout:hover {
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Logo Studio W" class="logo-img">
+
+    <div class="username">Seja bem-vindo, {{ usuario|capitalize }}!</div>
+
+    <h2 style="margin-bottom: 20px;">Escolha um dashboard para visualizar:</h2>
+
+    {% for dash in dashboards %}
+        <a class="link-button" href="{{ url_for('dashboard', slug=dash['slug']) }}">
+        <div class="link-left">
+            <img class="link-icon" src="{{ url_for('static', filename='img/' + dash['icone']) }}" alt="{{ dash['nome'] }}">
+            <span>{{ dash['nome']}}</span>
+
+        </div>
+    </a>
+    {% endfor %}
+
+    <a class="logout" href="{{ url_for('logout') }}">Sair</a>
+
+</body>
+</html>

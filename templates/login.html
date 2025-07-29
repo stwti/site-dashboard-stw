@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DASHBOARD - STUDIO W</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet" />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      height: 100vh;
+    }
+
+    .left {
+      background-image: url('{{ url_for("static", filename="img/fundo-left.jpg") }}');
+      background-size: cover;
+      background-position: center;
+      flex: 1.5;
+    }
+
+    .right {
+      background-color: #1e1e1e;
+      color: white;
+      flex: 0.5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 30px;
+    }
+
+    .right-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      max-width: 360px;
+    }
+
+    .logo-image {
+      width: 100%;
+      max-width: 220px;
+      margin-bottom: 10px;
+    }
+
+    .main-info {
+      margin-top: -20px; /* Eleva todo o conteúdo abaixo do logo */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+    }
+
+    h1 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 2em;
+      margin: 0 0 10px;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 1.4em;
+      margin: 10px 0 5px;
+      text-align: center;
+    }
+
+    .main-info p {
+      color: #ccc;
+      margin-bottom: 5px;
+      text-align: center;
+    }
+
+    .main-info form {
+      margin-top: 10px;
+      width: 100%;
+    }
+
+    .form-group {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      background: #2e2e2e;
+      border: none;
+      color: white;
+      border-radius: 5px;
+      font-size: 1em;
+    }
+
+    input:focus {
+      outline: 2px solid #58685d;
+    }
+
+    button {
+      background-color: #58685d;
+      border: none;
+      color: white;
+      padding: 12px;
+      font-size: 1em;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    .erro {
+      color: #ff6666;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        flex-direction: column;
+      }
+
+      .left, .right {
+        flex: none;
+        width: 100%;
+        height: auto;
+      }
+
+      .right {
+        padding: 20px;
+      }
+
+      .logo-image {
+        max-width: 180px;
+      }
+
+      .main-info {
+        margin-top: 0; /* Anula elevação em telas pequenas */
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ESQUERDA -->
+  <div class="left"></div>
+
+  <!-- DIREITA -->
+  <div class="right">
+    <div class="right-content">
+
+      <!-- LOGO -->
+      <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Logo Studio W" class="logo-image" />
+
+      <!-- BLOCO QUE SUBIU -->
+      <div class="main-info">
+        <h1>Central de Dashboards</h1>
+        <h2>Identificação</h2>
+        <p>Digite suas credenciais:</p>
+
+        {% if erro %}
+          <p class="erro">{{ erro }}</p>
+        {% endif %}
+
+        <form method="POST" action="{{ url_for('login') }}">
+          <div class="form-group">
+            <input type="text" name="usuario" placeholder="Usuário" required />
+          </div>
+          <div class="form-group">
+            <input type="password" name="senha" placeholder="Senha" required />
+          </div>
+          <button type="submit">Entrar</button>
+        </form>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>

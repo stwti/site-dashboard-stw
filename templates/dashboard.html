@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ nome }}</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: white;
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        iframe {
+            width: 100%;
+            max-width: 1200px;
+            height: 80vh;
+            border: none;
+            border-radius: 10px;
+        }
+
+        a {
+            margin-top: 20px;
+            text-decoration: none;
+            color: #ccc;
+        }
+
+        a:hover {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h2>{{ nome }}</h2>
+    <iframe src="{{ embed_link }}" allowFullScreen="true"></iframe>
+    <a href="{{ url_for('painel') }}">← Voltar para o menu principal</a>
+</body>
+</html>
