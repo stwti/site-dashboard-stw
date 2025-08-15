@@ -34,25 +34,19 @@ usuarios = {
             }
         ]
     },
-    'rafaela': {
+    'bmedeiros': {
         'senha': 'minhasenha',
         'dashboards': [
-            {'nome': 'Marketing',
-             'slug': 'marketing',
+            {'nome': 'Vendas - Julho',
+             'slug': 'Vendas_Julho',
              'icone': 'dashboard3.png',
-             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiYmZlNzIxYTgtYWYwMy00YzhmLWEyZWEtODYzMTM3N2Q2ZjVjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiM2VkMjU5NTYtOTk0NC00MTlmLTlmN2UtOWRhM2I5ZTM0N2JmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             },
-            {'nome': 'Suporte',
-             'slug': 'suporte',
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
              'icone': 'dashboard3.png',
-             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiYmZlNzIxYTgtYWYwMy00YzhmLWEyZWEtODYzMTM3N2Q2ZjVjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
-            },
-            {'nome': 'Financeiro',
-             'slug': 'financeiro',
-             'icone': 'dashboard1.png',
              'embed': 'https://app.powerbi.com/view?r=eyJrIjoiYmZlNzIxYTgtYWYwMy00YzhmLWEyZWEtODYzMTM3N2Q2ZjVjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             }
-
         ]
     }
 }
