@@ -13,6 +13,11 @@ usuarios = {
              'slug': 'campanha_loreal_rb',
              'icone': 'dashboard1.png',
              'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             }
 
         ]
