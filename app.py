@@ -2,11 +2,11 @@
 from flask import Flask, render_template, request, redirect, url_for, session
 
 app = Flask(__name__)
-app.secret_key = 'chave-secreta-supersegura'  # Troque por algo mais forte em produção
-
+app.secret_key = 'Z6vGqP@4s9!bR1Kx#eP2UwYt$3MnL8dQ'  
 # Usuários fixos (simples, sem banco de dados)
 usuarios = {
     'DouglasCardoso': {
+        'nome': 'Douglas Cardoso',
         'senha': 'senha123',
         'dashboards': [
             {'nome': 'Campanha Loreal - Rebouças',
@@ -18,6 +18,7 @@ usuarios = {
         ]
     },
     'bmedeiros': {
+        'nome': 'Barbara Medeiros',
         'senha': 'minhasenha',
         'dashboards': [
             {'nome': 'Vendas - Julho',
@@ -57,8 +58,9 @@ def painel():
         return redirect(url_for('home'))
     
     usuario = session['usuario']
+    nome = usuarios[usuario]['nome']
     dashboards = usuarios[usuario]['dashboards']
-    return render_template('painel.html', usuario=usuario, dashboards=dashboards)
+    return render_template('painel.html', usuario=usuario, nome=nome, dashboards=dashboards)
 
 @app.route('/dashboard/<slug>')
 def dashboard(slug):
