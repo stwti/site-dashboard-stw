@@ -28,7 +28,7 @@ usuarios = {
             },
             {'nome': 'Vendas - Agosto',
              'slug': 'Vendas_Agosto',
-             'icone': 'dashboard3.png',
+             'icone': 'dashboard1.png',
              'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTNjZTk5OTUtZWM3YS00NDA5LThjMjItYjBlMzEzM2E4ZTQ0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             }
         ]
