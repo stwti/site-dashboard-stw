@@ -18,7 +18,7 @@ usuarios = {
         ]
     },
     'bmedeiros': {
-        'nome': 'Barbara Medeiros',
+        'nome': 'Barbara',
         'senha': 'minhasenha',
         'dashboards': [
             {'nome': 'Vendas - Julho',
