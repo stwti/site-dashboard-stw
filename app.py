@@ -6,32 +6,15 @@ app.secret_key = 'chave-secreta-supersegura'  # Troque por algo mais forte em pr
 
 # Usuários fixos (simples, sem banco de dados)
 usuarios = {
-    'Douglas': {
+    'DouglasCardoso': {
         'senha': 'senha123',
         'dashboards': [
             {'nome': 'Campanha Loreal - Rebouças',
              'slug': 'campanha_loreal_rb',
              'icone': 'dashboard1.png',
              'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
-            },
-            
-            {'nome': 'Campanha Loreal - Rede',
-             'slug': 'campanha_loreal_rede',
-             'icone': 'dashboard2.png',
-             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiZGRkYzY5ZDItNjBmOS00OGZmLWJlZTItYjI0MTk4YmY4MjRjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
-            },
-
-            {'nome': 'Campanha Wella - Assistentes',
-             'slug': 'campanha_wella_assistentes',
-             'icone': 'dashboard3.png',
-             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNDhhYjUxYzctYWMzZS00NTJlLThmZjAtOTIzODkxY2VmNjQ5IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
-            },
-
-            {'nome': 'Campanha Wella - Rede',
-             'slug': 'campanha_wella_rede',
-             'icone': 'dashboard4.png',
-             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiYmZlNzIxYTgtYWYwMy00YzhmLWEyZWEtODYzMTM3N2Q2ZjVjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             }
+
         ]
     },
     'bmedeiros': {
@@ -40,7 +23,7 @@ usuarios = {
             {'nome': 'Vendas - Julho',
              'slug': 'Vendas_Julho',
              'icone': 'dashboard3.png',
-             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiM2VkMjU5NTYtOTk0NC00MTlmLTlmN2UtOWRhM2I5ZTM0N2JmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiOGQ5OGM5ZjItOTdmOC00Mjc0LWE0YmMtMzUzYmE0Mzg3ODZlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             },
             {'nome': 'Vendas - Agosto',
              'slug': 'Vendas_Agosto',

@@ -1,0 +1,52 @@
+1. Fazer alterações no seu código localmente
+
+No seu VS Code, modifique o HTML, Python, templates, o que quiser.
+
+2. Enviar as mudanças pro GitHub
+
+No terminal do VS Code:
+
+git add .
+git commit -m "Adição de usuário"
+git push origin master
+
+3. Acessar a VPS e puxar as atualizações
+
+Via SSH na VPS (como root ou usuário com permissão):
+
+cd /var/www/site-dashboard-stw
+git pull origin master
+
+4. Reiniciar o serviço Gunicorn
+
+Use o nome correto do seu serviço (por exemplo, site-dashboard.service):
+
+sudo systemctl restart site-dashboard.service
+
+
+Se quiser conferir se subiu certinho:
+
+sudo systemctl status site-dashboard.service
+
+✅ Dica extra: Automatizar o pull e restart com um script
+
+Você pode criar um script atualizar.sh com:
+
+#!/bin/bash
+cd /var/www/site-dashboard-stw || exit
+git pull origin master
+sudo systemctl restart site-dashboard.service
+
+
+Depois:
+
+chmod +x atualizar.sh
+
+
+Aí você só roda:
+
+./atualizar.sh
+
+
+Se quiser, posso montar esse script com notificações ou logs. É só pedir.
+
