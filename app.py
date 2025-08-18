@@ -7,7 +7,7 @@ app.secret_key = 'Z6vGqP@4s9!bR1Kx#eP2UwYt$3MnL8dQ'
 usuarios = {
     'DouglasCardoso': {
         'nome': 'Douglas Cardoso',
-        'senha': 'senha123',
+        'senha': 'Studiow@2025',
         'dashboards': [
             {'nome': 'Campanha Loreal - Rebouças',
              'slug': 'campanha_loreal_rb',
@@ -22,9 +22,9 @@ usuarios = {
 
         ]
     },
-    'bmedeiros': {
-        'nome': 'Barbara',
-        'senha': 'minhasenha',
+    'greboucas': {
+        'nome': 'Gerência Rebouças',
+        'senha': 'PiwbRb@1808',
         'dashboards': [
             {'nome': 'Vendas - Julho',
              'slug': 'Vendas_Julho',
@@ -37,7 +37,92 @@ usuarios = {
              'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
             }
         ]
-    }
+    },
+    'ghigi': {
+        'nome': 'Gerência Higienópolis',
+        'senha': 'PiwbHg@1809',
+        'dashboards': [
+            {'nome': 'Campanha Loreal - Rebouças',
+             'slug': 'campanha_loreal_rb',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            }
+
+        ]
+    },
+    'gjk': {
+        'nome': 'Gerência JK',
+        'senha': 'PiwbJk@1810',
+        'dashboards': [
+            {'nome': 'Campanha Loreal - Rebouças',
+             'slug': 'campanha_loreal_rb',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            }
+
+        ]
+    },
+    'gritu': {
+        'nome': 'Gerência Ritu',
+        'senha': 'PiwbRitu@1811',
+        'dashboards': [
+            {'nome': 'Campanha Loreal - Rebouças',
+             'slug': 'campanha_loreal_rb',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            }
+
+        ]
+    },
+    'gcampinas': {
+        'nome': 'Gerência Campinas',
+        'senha': 'PiwbCamp@1812',
+        'dashboards': [
+            {'nome': 'Campanha Loreal - Rebouças',
+             'slug': 'campanha_loreal_rb',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            }
+
+        ]
+    },
+        'gribeirao': {
+        'nome': 'Gerência Ribeirão',
+        'senha': 'PiwbRib@1813',
+        'dashboards': [
+            {'nome': 'Campanha Loreal - Rebouças',
+             'slug': 'campanha_loreal_rb',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            }
+
+        ]
+    },
 }
 
 @app.route('/')
