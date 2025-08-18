@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for, session
 
 app = Flask(__name__)
 app.secret_key = 'Z6vGqP@4s9!bR1Kx#eP2UwYt$3MnL8dQ'  
-# Usuários fixos (simples, sem banco de dados)
+# Usuários fixos 
 usuarios = {
     'DouglasCardoso': {
         'nome': 'Douglas Cardoso',
@@ -123,6 +123,25 @@ usuarios = {
 
         ]
     },
+        'hnavarini': {
+        'nome': 'Herbert Navarini',
+        'senha': 'PiwbW@1813',
+        'dashboards': [
+            {'nome': 'Campanha Loreal - Rebouças',
+             'slug': 'campanha_loreal_rb',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNTg2N2JhNmItZjBhMy00MGQwLThkZmYtNmI3MmU0Zjg1ZDExIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            },
+            {'nome': 'Vendas - Agosto',
+             'slug': 'Vendas_Agosto',
+             'icone': 'dashboard1.png',
+             'embed': 'https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9'
+            }
+
+        ]
+    },
+
+
 }
 
 @app.route('/')
