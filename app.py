@@ -5,8 +5,8 @@ app = Flask(__name__)
 app.secret_key = 'Z6vGqP@4s9!bR1Kx#eP2UwYt$3MnL8dQ'  
 # Usuários fixos 
 usuarios = {
-    'DouglasCardoso': {
-        'nome': 'Douglas Cardoso',
+    'stwti': {
+        'nome': 'Tecnologia da Informação',
         'senha': 'Studiow@2025',
         'dashboards': [
             {'nome': 'Campanha Loreal - Rebouças',
