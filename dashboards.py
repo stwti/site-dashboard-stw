@@ -1,6 +1,6 @@
 todos_dashboards = {
     "Campanha_Loreal_Coloração": {
-        "nome": "Campanha Loreal Rb",
+        "nome": "Campanha Loreal - Coloração",
         "icone": "dashboard4.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNWZjYTdiZjAtN2FmZC00N2Q1LWJkMGMtNWY1NjdjMGYzYjYzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
@@ -15,17 +15,17 @@ todos_dashboards = {
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiOGQ5OGM5ZjItOTdmOC00Mjc0LWE0YmMtMzUzYmE0Mzg3ODZlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Wella_Assistentes": {
-        "nome": "Wella Assistentes",
+        "nome": "Wella - Assistentes",
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiM2QwZjFhYjEtYjg1NC00ZGFhLTgzYjEtNGU4Y2Q5YmZiOGE3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Wella_Rede": {
-        "nome": "Wella Rede",
+        "nome": "Wella - Rede",
         "icone": "dashboard2.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiZWIzMGMxMDQtYWI4ZS00NTAwLTlhNmItNjY3OWI0MjAxNzFlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Loreal_Rede": {
-        "nome": "Loreal Rede",
+        "nome": "Loreal - Rede",
         "icone": "dashboard4.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiMjQ0M2Y5YWYtYTE4NC00NDk3LWIxNTAtMjc5NjhiMzBlNGIyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },

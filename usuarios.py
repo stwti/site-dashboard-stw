@@ -7,7 +7,7 @@ usuarios = {
             "Vendas_Agosto",
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Rebouças",
             "Loreal_Gerentes_Rebouças",
@@ -31,7 +31,7 @@ usuarios = {
             "Vendas_Agosto",
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Rebouças",
             "Loreal_Gerentes_Rebouças"
@@ -43,7 +43,7 @@ usuarios = {
         "acesso": [
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Higienopolis",
             "Loreal_Gerentes_Higienopolis"
@@ -55,7 +55,7 @@ usuarios = {
         "acesso": [
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_JK",
             "Loreal_Gerentes_JK"
@@ -67,10 +67,8 @@ usuarios = {
         "acesso": [
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
-            "Loreal_Rede",
-            "Wella_Gerentes",
-            "Loreal_Gerentes"
+            "Campanha_Loreal_Coloração",
+            "Loreal_Rede"
         ]
     },
     "gcampinas": {
@@ -79,7 +77,7 @@ usuarios = {
         "acesso": [
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Campinas",
             "Loreal_Gerentes_Campinas"
@@ -91,7 +89,7 @@ usuarios = {
         "acesso": [
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Ribeirao",
             "Loreal_Gerentes_Ribeirao"
@@ -105,7 +103,7 @@ usuarios = {
             "Vendas_Agosto",
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Rebouças",
             "Loreal_Gerentes_Rebouças",
@@ -129,7 +127,7 @@ usuarios = {
             "Vendas_Agosto",
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Rebouças",
             "Loreal_Gerentes_Rebouças",
@@ -153,7 +151,7 @@ usuarios = {
             "Vendas_Agosto",
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Rebouças",
             "Loreal_Gerentes_Rebouças",
@@ -177,7 +175,7 @@ usuarios = {
             "Vendas_Agosto",
             "Wella_Assistentes",
             "Wella_Rede",
-            "Loreal_Coloracao",
+            "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Rebouças",
             "Loreal_Gerentes_Rebouças",
