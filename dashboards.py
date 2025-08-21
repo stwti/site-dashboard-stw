@@ -56,31 +56,31 @@ todos_dashboards = {
     },
     
     "Loreal_Gerentes_Rebouças": {
-        "nome": "Wella Gerentes - Rebouças",
+        "nome": "Loreal Gerentes - Rebouças",
         "icone": "dashboard2.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiYjU0YmE1YjctYWE5ZC00ZjdmLWJjYTAtOThmZjYwZmVlMTgyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     
     "Loreal_Gerentes_Campinas": {
-        "nome": "Wella Gerentes - Campinas",
+        "nome": "Loreal Gerentes - Campinas",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiYzMwYTMzZWUtNmUzNy00ZTRmLWEzNDEtNDZmNzRhYTVlOGYwIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     
     "Loreal_Gerentes_Higienopolis": {
-        "nome": "Wella Gerentes - Higienópolis",
+        "nome": "Loreal Gerentes - Higienópolis",
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNmFmNzFhODQtMTRiMC00ZTk1LWJjYWEtMWNiZjhkOTI1MzFjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     
     "Loreal_Gerentes_JK": {
-        "nome": "Wella Gerentes - JK",
+        "nome": "Loreal Gerentes - JK",
         "icone": "dashboard2.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiOTFkMTZjYzItNjE1OC00YmMyLTg4MzMtODU1MzhjOGEwYjc0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     
     "Loreal_Gerentes_Ribeirao": {
-        "nome": "Wella Gerentes - Ribeirão",
+        "nome": "Loreal Gerentes - Ribeirão",
         "icone": "dashboard4.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiMmUxOTMyNzYtZjFkZS00NDEzLTlhM2QtMmY5ZTJlN2RmMjBhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
