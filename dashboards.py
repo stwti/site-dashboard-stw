@@ -5,12 +5,12 @@ todos_dashboards = {
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNWZjYTdiZjAtN2FmZC00N2Q1LWJkMGMtNWY1NjdjMGYzYjYzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Vendas_Agosto": {
-        "nome": "Vendas Agosto",
+        "nome": "Vendas Agosto - Rebouças",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Vendas_Julho": {
-        "nome": "Vendas Julho",
+        "nome": "Vendas Julho - Rebouças",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiOGQ5OGM5ZjItOTdmOC00Mjc0LWE0YmMtMzUzYmE0Mzg3ODZlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },

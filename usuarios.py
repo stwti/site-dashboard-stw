@@ -1,5 +1,5 @@
 usuarios = {
-    "stwti": {
+    "tecnologiaw": {
         "nome": "Tecnologia da Informação",
         "senha": "Studiow@2025",
         "acesso": [

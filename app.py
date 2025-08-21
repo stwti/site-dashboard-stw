@@ -2,8 +2,9 @@ from flask import Flask, render_template, request, redirect, url_for, session
 from usuarios import usuarios
 from dashboards import todos_dashboards
 
+
 app = Flask(__name__)
-app.secret_key = 'chave-super-secreta-segura'
+app.secret_key = b'k1sYfP4gZ8bE6qWj0uXm2oT7iV5hRcDd3nF9sA4yN8lG6pQzO'
 
 @app.route('/')
 def home():
