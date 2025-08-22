@@ -144,7 +144,7 @@ usuarios = {
         ]
     },
     "financeirow": {
-        "nome": "Comercial Studio W",
+        "nome": "Financeiro Studio W",
         "senha": "@!Financeiro0821",
         "acesso": [
             "Vendas_Julho",
