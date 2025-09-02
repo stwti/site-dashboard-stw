@@ -5,6 +5,7 @@ usuarios = {
         "acesso": [
             "Vendas_Julho",
             "Vendas_Agosto",
+            "Vendas_Setembro",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -29,6 +30,7 @@ usuarios = {
         "acesso": [
             "Vendas_Julho",
             "Vendas_Agosto",
+            "Vendas_Setembro",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -101,6 +103,7 @@ usuarios = {
         "acesso": [
             "Vendas_Julho",
             "Vendas_Agosto",
+            "Vendas_Setembro",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -125,6 +128,7 @@ usuarios = {
         "acesso": [
             "Vendas_Julho",
             "Vendas_Agosto",
+            "Vendas_Setembro",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -149,6 +153,7 @@ usuarios = {
         "acesso": [
             "Vendas_Julho",
             "Vendas_Agosto",
+            "Vendas_Setembro",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -173,6 +178,7 @@ usuarios = {
         "acesso": [
             "Vendas_Julho",
             "Vendas_Agosto",
+            "Vendas_Setembro",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",

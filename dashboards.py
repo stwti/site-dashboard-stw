@@ -9,6 +9,11 @@ todos_dashboards = {
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNWE4YTVhNDMtZWE3NC00MGVhLTkzODQtM2YxM2FhNWU2MDE0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
+    "Vendas_Setembro": {
+        "nome": "Vendas Setembro - Rebouças",
+        "icone": "dashboard4.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiYTU5ODc5NWMtN2JiZS00ZTJlLWJlZDQtZjI1MmRjMzk5MTViIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
     "Vendas_Julho": {
         "nome": "Vendas Julho - Rebouças",
         "icone": "dashboard1.png",
