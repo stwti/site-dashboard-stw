@@ -85,7 +85,6 @@ usuarios = {
         "nome": "Gerência Campinas",
         "senha": "PwbiCamp@1813",
         "acesso": [
-            "Vendas_Outubro_Campinas",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
             "Loreal_Rede",
@@ -97,7 +96,6 @@ usuarios = {
         "nome": "Gerência Ribeirão",
         "senha": "PwbiRib@1813",
         "acesso": [
-            "Vendas_Outubro_Ribeirao",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
