@@ -92,27 +92,27 @@ todos_dashboards = {
     "Vendas_Outubro_Campinas": {
         "nome": "Vendas Outubro - Campinas",
         "icone": "dashboard2.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMzQwMzRjOGItODhiNy00MmNlLThiNjUtNTVjOTU2MDU0YTk5IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZTgwMWVkNGMtYjliNS00ZDNiLTkwOTgtOGFiZDMwZDRmNzczIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Vendas_Outubro_Ribeirao": {
         "nome": "Vendas Outubro - Ribeirão Preto",
         "icone": "dashboard1.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiYmU2MjQzNDktOTYwNS00M2Q5LWEyZTItOTRmNGNmNGZiMWI4IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMWYyNTExZjgtMmM3OS00YTljLWJjNmItOWFhMmZmNmYzODIyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Vendas_Outubro_Reboucas": {
         "nome": "Vendas Outubro - Rebouças",
         "icone": "dashboard2.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZGI5ZjVkYmItYTQ5OS00YjZiLWJjMWYtOWY1MDc1ZjI5NDYwIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNWRiMDdmNzgtYmU4ZS00YWJmLWJjMDAtNWVlNDViN2MwZmEwIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Vendas_Outubro_Higienopolis": {
         "nome": "Vendas Outubro - Higienópolis",
         "icone": "dashboard4.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiOWFjOTY3YTktNTExNy00N2ZjLWI0ZGEtOGQxNWE3NDQ1NTM5IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMzRmZWFlNzQtMDkyOC00OWM5LTlmYmUtMTU4ZTU4ZTY1YjJkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Vendas_Outubro_JK": {
         "nome": "Vendas Outubro - JK",
         "icone": "dashboard3.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiYzQ5M2ZmMTItZTk0Mi00MjBjLTgyMGEtODk1YzRkNjU5MDNlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiOWY1NjEyNjYtMmU4ZC00NTZlLWE5ZTAtMzBlYmUwNTc4MDk5IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     }
 
 
