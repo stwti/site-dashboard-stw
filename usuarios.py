@@ -89,7 +89,8 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Campinas",
-            "Loreal_Gerentes_Campinas"
+            "Loreal_Gerentes_Campinas",
+            "Vendas_Outubro_Ribeirao"
         ]
     },
     "gribeirao": {
@@ -101,7 +102,8 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Ribeirao",
-            "Loreal_Gerentes_Ribeirao"
+            "Loreal_Gerentes_Ribeirao",
+            "Vendas_Outubro_Ribeirao"
         ]
     },
     "hnavarini": {
