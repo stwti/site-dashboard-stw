@@ -3,11 +3,11 @@ usuarios = {
         "nome": "Tecnologia da Informação",
         "senha": "Studiow@2025",
         "acesso": [
-            "Vendas_Outubro_Campinas",
-            "Vendas_Outubro_Ribeirao",
-            "Vendas_Outubro_Reboucas",
-            "Vendas_Outubro_Higienopolis",
-            "Vendas_Outubro_JK",
+            "Vendas_Campinas",
+            "Vendas_Ribeirao",
+            "Vendas_Reboucas",
+            "Vendas_Higienopolis",
+            "Vendas_JK",
             "Vendas_Julho_Reboucas",
             "Vendas_Agosto_Reboucas",
             "Vendas_Setembro_Reboucas",
@@ -33,7 +33,7 @@ usuarios = {
         "nome": "Gerência Rebouças",
         "senha": "PwbiRb@1808",
         "acesso": [
-            "Vendas_Outubro_Reboucas",
+            "Vendas_Reboucas",
             "Vendas_Julho_Reboucas",
             "Vendas_Agosto_Reboucas",
             "Vendas_Setembro_Reboucas",
@@ -49,7 +49,7 @@ usuarios = {
         "nome": "Gerência Higienópolis",
         "senha": "PwbiHg@1809",
         "acesso": [
-            "Vendas_Outubro_Higienopolis",
+            "Vendas_Higienopolis",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -62,7 +62,7 @@ usuarios = {
         "nome": "Gerência JK",
         "senha": "PwbiJk@1811",
         "acesso": [
-            "Vendas_Outubro_JK",
+            "Vendas_JK",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
@@ -90,7 +90,7 @@ usuarios = {
             "Loreal_Rede",
             "Wella_Gerentes_Campinas",
             "Loreal_Gerentes_Campinas",
-            "Vendas_Outubro_Ribeirao"
+            "Vendas_Ribeirao"
         ]
     },
     "gribeirao": {
@@ -103,18 +103,18 @@ usuarios = {
             "Loreal_Rede",
             "Wella_Gerentes_Ribeirao",
             "Loreal_Gerentes_Ribeirao",
-            "Vendas_Outubro_Ribeirao"
+            "Vendas_Ribeirao"
         ]
     },
     "hnavarini": {
         "nome": "Herbert Navarini",
         "senha": "Hnavarini@1815",
         "acesso": [
-            "Vendas_Outubro_Campinas",
-            "Vendas_Outubro_Ribeirao",
-            "Vendas_Outubro_Reboucas",
-            "Vendas_Outubro_Higienopolis",
-            "Vendas_Outubro_JK",
+            "Vendas_Campinas",
+            "Vendas_Ribeirao",
+            "Vendas_Reboucas",
+            "Vendas_Higienopolis",
+            "Vendas_JK",
             "Vendas_Julho_Reboucas",
             "Vendas_Agosto_Reboucas",
             "Vendas_Setembro_Reboucas",
@@ -140,11 +140,11 @@ usuarios = {
         "nome": "Comercial Studio W",
         "senha": "@!Comercial2108",
         "acesso": [
-            "Vendas_Outubro_Campinas",
-            "Vendas_Outubro_Ribeirao",
-            "Vendas_Outubro_Reboucas",
-            "Vendas_Outubro_Higienopolis",
-            "Vendas_Outubro_JK",
+            "Vendas_Campinas",
+            "Vendas_Ribeirao",
+            "Vendas_Reboucas",
+            "Vendas_Higienopolis",
+            "Vendas_JK",
             "Vendas_Julho_Reboucas",
             "Vendas_Agosto_Reboucas",
             "Vendas_Setembro_Reboucas",
@@ -170,11 +170,11 @@ usuarios = {
         "nome": "Financeiro Studio W",
         "senha": "@!Financeiro0821",
         "acesso": [
-            "Vendas_Outubro_Campinas",
-            "Vendas_Outubro_Ribeirao",
-            "Vendas_Outubro_Reboucas",
-            "Vendas_Outubro_Higienopolis",
-            "Vendas_Outubro_JK",
+            "Vendas_Campinas",
+            "Vendas_Ribeirao",
+            "Vendas_Reboucas",
+            "Vendas_Higienopolis",
+            "Vendas_JK",
             "Vendas_Julho_Reboucas",
             "Vendas_Agosto_Reboucas",
             "Vendas_Setembro_Reboucas",

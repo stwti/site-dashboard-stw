@@ -89,30 +89,30 @@ todos_dashboards = {
         "icone": "dashboard4.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiMmUxOTMyNzYtZjFkZS00NDEzLTlhM2QtMmY5ZTJlN2RmMjBhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
-    "Vendas_Outubro_Campinas": {
+    "Vendas_Campinas": {
         "nome": "Vendas Outubro - Campinas",
         "icone": "dashboard2.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNmI0ZWNjOGItZjAyYy00MGM0LWI0NmQtNTJlODIyYTBhZDQxIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiYTdmYzg5MDUtYjBiMS00ZTUxLWE4ZjctNWEzMGNkMTEyYzNkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
-    "Vendas_Outubro_Ribeirao": {
+    "Vendas_Ribeirao": {
         "nome": "Vendas Outubro - Ribeirão Preto",
         "icone": "dashboard1.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZjcxYTVmZDYtMmJhNi00Y2ZiLWJhMWYtZGFmNWYyOTE4MzE3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMDRhOTVjY2YtOWQwOC00OGM2LWI1ZGYtMGYwMWZhMjM5MWMxIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
-    "Vendas_Outubro_Reboucas": {
+    "Vendas_Reboucas": {
         "nome": "Vendas Outubro - Rebouças",
         "icone": "dashboard2.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiN2U2YjZlZmQtMzAwMS00ZDI1LWE2ZjctYzk2ODMxNzZiMDVhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNzRlNTEzY2MtZGVlNS00NGIxLWEyOGYtNDE3MWQwM2IyZDU1IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
-    "Vendas_Outubro_Higienopolis": {
+    "Vendas_Higienopolis": {
         "nome": "Vendas Outubro - Higienópolis",
         "icone": "dashboard4.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNTY0ZjJjYTAtMzZmYS00YWYxLWFkOTUtNzk1MmQyMjY3OWNhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZmQ1YjU1M2ItMTY0OS00OTE3LThhM2ItYjcyODY0YzgzNjliIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
-    "Vendas_Outubro_JK": {
+    "Vendas_JK": {
         "nome": "Vendas Outubro - JK",
         "icone": "dashboard3.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiN2U2YjZlZmQtMzAwMS00ZDI1LWE2ZjctYzk2ODMxNzZiMDVhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMTYwNmFiZDEtZDgzNi00ZDAyLWJiZjYtMTllYzdkYjFiOWEyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     }
 
 
