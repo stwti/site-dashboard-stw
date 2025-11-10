@@ -87,20 +87,21 @@ usuarios = {
             "Loreal_Rede",
             "Wella_Gerentes_Campinas",
             "Loreal_Gerentes_Campinas",
-            "Vendas_Ribeirao"
+            "Vendas_Campinas"
         ]
     },
     "gribeirao": {
         "nome": "Gerência Ribeirão",
         "senha": "PwbiRib@1813",
         "acesso": [
+            "Vendas_Ribeirao",
             "Wella_Assistentes",
             "Wella_Rede",
             "Campanha_Loreal_Coloração",
             "Loreal_Rede",
             "Wella_Gerentes_Ribeirao",
-            "Loreal_Gerentes_Ribeirao",
-            "Vendas_Ribeirao"
+            "Loreal_Gerentes_Ribeirao"
+           
         ]
     },
     "hnavarini": {
