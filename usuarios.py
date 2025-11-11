@@ -1,7 +1,7 @@
 usuarios = {
     "tecnologiaw": {
         "nome": "Tecnologia da Informação",
-        "senha": "Studiow@2025",
+        "senha": "PwTi@11Stw16",
         "acesso": [
             "Vendas_Novembro_Campinas",
             "Vendas_Novembro_Ribeirao",
