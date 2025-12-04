@@ -10,7 +10,26 @@ usuarios = {
             "Vendas_Novembro_JK",
             "Vendas_Julho_Reboucas",
             "Vendas_Agosto_Reboucas",
-            "Vendas_Setembro_Reboucas"
+            "Vendas_Setembro_Reboucas",
+            "Vendas_Dezembro_Campinas",
+            "Vendas_Dezembro_Ribeirao",
+            "Vendas_Dezembro_Reboucas",
+            "Vendas_Dezembro_Higienopolis",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "greboucas": {
@@ -20,21 +39,44 @@ usuarios = {
             "Vendas_Novembro_Reboucas",
             "Vendas_Agosto_Reboucas",
             "Vendas_Setembro_Reboucas",
-            "Vendas_Julho_Reboucas"
+            "Vendas_Julho_Reboucas",
+            "Vendas_Dezembro_Reboucas",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
+
+
         ]
     },
     "ghigi": {
         "nome": "Gerência Higienópolis",
         "senha": "PwbiHg@1809",
         "acesso": [
-            "Vendas_Novembro_Higienopolis"
+            "Vendas_Novembro_Higienopolis",
+            "Vendas_Dezembro_Higienopolis",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "gjk": {
         "nome": "Gerência JK",
         "senha": "PwbiJk@1811",
         "acesso": [
-            "Vendas_Novembro_JK"
+            "Vendas_Novembro_JK",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "gritu": {
@@ -49,13 +91,27 @@ usuarios = {
         "senha": "PwbiCamp@1813",
         "acesso": [
             "Vendas_Novembro_Campinas"
+            "Vendas_Dezembro_Campinas",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "gribeirao": {
         "nome": "Gerência Ribeirão",
         "senha": "PwbiRib@1813",
         "acesso": [
-            "Vendas_Novembro_Ribeirao"
+            "Vendas_Novembro_Ribeirao",
+            "Vendas_Dezembro_Ribeirao",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
            
         ]
     },
@@ -67,7 +123,29 @@ usuarios = {
             "Vendas_Novembro_Ribeirao",
             "Vendas_Novembro_Reboucas",
             "Vendas_Novembro_Higienopolis",
-            "Vendas_Novembro_JK"
+            "Vendas_Novembro_JK",
+            "Vendas_Julho_Reboucas",
+            "Vendas_Agosto_Reboucas",
+            "Vendas_Setembro_Reboucas",
+            "Vendas_Dezembro_Campinas",
+            "Vendas_Dezembro_Ribeirao",
+            "Vendas_Dezembro_Reboucas",
+            "Vendas_Dezembro_Higienopolis",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "comercialw": {
@@ -78,7 +156,29 @@ usuarios = {
             "Vendas_Novembro_Ribeirao",
             "Vendas_Novembro_Reboucas",
             "Vendas_Novembro_Higienopolis",
-            "Vendas_Novembro_JK"
+            "Vendas_Novembro_JK",
+            "Vendas_Julho_Reboucas",
+            "Vendas_Agosto_Reboucas",
+            "Vendas_Setembro_Reboucas",
+            "Vendas_Dezembro_Campinas",
+            "Vendas_Dezembro_Ribeirao",
+            "Vendas_Dezembro_Reboucas",
+            "Vendas_Dezembro_Higienopolis",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "financeirow": {
@@ -89,7 +189,29 @@ usuarios = {
             "Vendas_Novembro_Ribeirao",
             "Vendas_Novembro_Reboucas",
             "Vendas_Novembro_Higienopolis",
-            "Vendas_Novembro_JK"
+            "Vendas_Novembro_JK",
+            "Vendas_Julho_Reboucas",
+            "Vendas_Agosto_Reboucas",
+            "Vendas_Setembro_Reboucas",
+            "Vendas_Dezembro_Campinas",
+            "Vendas_Dezembro_Ribeirao",
+            "Vendas_Dezembro_Reboucas",
+            "Vendas_Dezembro_Higienopolis",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     },
     "rosangelab": {
@@ -100,7 +222,29 @@ usuarios = {
             "Vendas_Novembro_Ribeirao",
             "Vendas_Novembro_Reboucas",
             "Vendas_Novembro_Higienopolis",
-            "Vendas_Novembro_JK"
+            "Vendas_Novembro_JK",
+            "Vendas_Julho_Reboucas",
+            "Vendas_Agosto_Reboucas",
+            "Vendas_Setembro_Reboucas",
+            "Vendas_Dezembro_Campinas",
+            "Vendas_Dezembro_Ribeirao",
+            "Vendas_Dezembro_Reboucas",
+            "Vendas_Dezembro_Higienopolis",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro"
         ]
     }
 }
