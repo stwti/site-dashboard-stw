@@ -29,7 +29,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "greboucas": {
@@ -46,7 +49,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
 
 
         ]
@@ -62,7 +68,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "gjk": {
@@ -76,14 +85,17 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "gritu": {
         "nome": "Gerência Ritu",
         "senha": "PwbiRitu@1812",
         "acesso": [
-
+            "Campanha_Davines_Ritu"
         ]
     },
     "gcampinas": {
@@ -97,7 +109,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "gribeirao": {
@@ -111,7 +126,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
            
         ]
     },
@@ -145,7 +163,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "comercialw": {
@@ -178,7 +199,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "financeirow": {
@@ -211,7 +235,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     },
     "rosangelab": {
@@ -244,7 +271,10 @@ usuarios = {
             "Campanha_Loreal_Coloração",
             "Campanha_Loreal_Assistentes_Novembro",
             "Campanha_Loreal_Assistentes_Dezembro",
-            "Campanha_Wella_Assistentes_Dezembro"
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração"
         ]
     }
 }
