@@ -125,9 +125,29 @@ todos_dashboards = {
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiOGUyZTU3MWMtZWJhNi00M2Y0LTgwYWUtNzY2NWQ1OTU5YzhiIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
     "Campanha_Wella_Assistentes_Dezembro": {
-        "nome": "Campanha Wella - Assistentes (Dezembro)",
+        "nome": "Campanha Wella - Assistentes",
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiZDg2NWMzYTEtZTM4Yy00ZGQ4LTk3NjAtMjdhZGE4MDQ4MGJjIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Wella_Tratamento_Dezembro": {
+        "nome": "Campanha Wella - Tratamento",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZjNjNGFlNjctYjNiNC00ZmZmLThmODctOGQ2NWIzY2Q2ZGRiIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Loreal_Tratamento_Dezembro": {
+        "nome": "Campanha Loreal - Tratamento",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiYjE5MGE1OTYtMGI4Ny00OWMwLTgzYjgtOWU5YjE0YWIzZTliIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Davines_Ritu": {
+        "nome": "Campanha Davines - Ritu",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiOTYwN2MyMGEtYmFlZi00ZjI3LTkwYzctY2Y3ZTA1OGIxMjEyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Wella_Coloração": {
+        "nome": "Campanha Wella - Coloração",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiY2NkYTk3MTktMjY2ZS00ZTgwLWIzYzYtMTNiZDcyYzFmNmIzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     }
 
 
