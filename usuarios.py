@@ -32,7 +32,8 @@ usuarios = {
             "Campanha_Wella_Assistentes_Dezembro",
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
-            "Campanha_Wella_Coloração"
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Ritu"
         ]
     },
     "greboucas": {
@@ -166,7 +167,8 @@ usuarios = {
             "Campanha_Wella_Assistentes_Dezembro",
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
-            "Campanha_Wella_Coloração"
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Ritu"
         ]
     },
     "comercialw": {
@@ -202,7 +204,8 @@ usuarios = {
             "Campanha_Wella_Assistentes_Dezembro",
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
-            "Campanha_Wella_Coloração"
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Ritu"
         ]
     },
     "financeirow": {
@@ -238,7 +241,8 @@ usuarios = {
             "Campanha_Wella_Assistentes_Dezembro",
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
-            "Campanha_Wella_Coloração"
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Ritu"
         ]
     },
     "rosangelab": {
@@ -274,7 +278,8 @@ usuarios = {
             "Campanha_Wella_Assistentes_Dezembro",
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
-            "Campanha_Wella_Coloração"
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Ritu"
         ]
     }
 }

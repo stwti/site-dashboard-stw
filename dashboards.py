@@ -54,7 +54,7 @@ todos_dashboards = {
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiODQ3NWRkNGQtNjIwOC00YmQyLWFlMWMtOTdlMGE3ZTY4MzRkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
-    "Vendas_Dezembro_Ribeirão_Preto": {
+    "Vendas_Dezembro_Ribeirao": {
         "nome": "Vendas Dezembro - Ribeirão Preto",
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNTAzYjMxNjItNWJiOS00NjBmLThjMzItOWJkOWJhZThiOWNkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
