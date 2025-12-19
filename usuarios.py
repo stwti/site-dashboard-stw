@@ -281,5 +281,42 @@ usuarios = {
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Ritu"
         ]
-    }
+    },
+        "academiacrm": {
+        "nome": "Academia CRM",
+        "senha": "$oD2E44T",
+        "acesso": [
+            "Vendas_Novembro_Campinas",
+            "Vendas_Novembro_Ribeirao",
+            "Vendas_Novembro_Reboucas",
+            "Vendas_Novembro_Higienopolis",
+            "Vendas_Novembro_JK",
+            "Vendas_Julho_Reboucas",
+            "Vendas_Agosto_Reboucas",
+            "Vendas_Setembro_Reboucas",
+            "Vendas_Dezembro_Campinas",
+            "Vendas_Dezembro_Ribeirao",
+            "Vendas_Dezembro_Reboucas",
+            "Vendas_Dezembro_Higienopolis",
+            "Vendas_Dezembro_JK",
+            "Campanha_Gerentes_Wella_Campinas",
+            "Campanha_Gerentes_Wella_Ribeirao",
+            "Campanha_Gerentes_Wella_Reboucas",
+            "Campanha_Gerentes_Wella_Higienopolis",
+            "Campanha_Gerentes_Wella_JK",
+            "Campanha_Gerentes_Loreal_Campinas",
+            "Campanha_Gerentes_Loreal_Ribeirao",
+            "Campanha_Gerentes_Loreal_Reboucas",
+            "Campanha_Gerentes_Loreal_Higienopolis",
+            "Campanha_Gerentes_Loreal_JK",
+            "Campanha_Loreal_Coloração",
+            "Campanha_Loreal_Assistentes_Novembro",
+            "Campanha_Loreal_Assistentes_Dezembro",
+            "Campanha_Wella_Assistentes_Dezembro",
+            "Campanha_Loreal_Tratamento_Dezembro",
+            "Campanha_Wella_Tratamento_Dezembro",
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Ritu"
+        ]
+    },
 }
