@@ -163,7 +163,32 @@ todos_dashboards = {
         "nome": "Vendas Março - Ribeirão Preto",
         "icone": "dashboard2.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiOWUxNTUxNjgtYjI5MC00MjQzLTk2MjQtNWM1NTljYzdjMzU3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
-    }               
+    }  ,
+    "Vendas_Abril_Campinas": {
+        "nome": "Vendas Abril - Campinas",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMzdlMDc2MmEtZjM3OC00OWExLThjMzQtZWQwZTM3YzNlMjhlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Abril_Higienopolis": {
+        "nome": "Vendas Abril - Higienópolis",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMjRmOGM3ZTMtNDFjZS00Y2EzLWFlZjktYWU0MDE4ZDE5NTVhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Abril_JK": {
+        "nome": "Vendas Abril - JK",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiOTE0ZmVhZjMtMzQyMy00MzQ4LTlhYWMtOWM0MjYwOGZkYjIyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Abril_Rebouças": {
+        "nome": "Vendas Abril - Rebouças",
+        "icone": "dashboard4.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMWIxZDZlYzItYzJhNi00ZDNiLWIwMDctYjMxMmU4ODAzM2JlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Abril_Ribeirão": {
+        "nome": "Vendas Abril - Ribeirão Preto",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZWEwNzMxMzctMDYwOC00NzI5LWIxNmUtZmZiZTg4NGZkMzRiIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    }                       
     
 
 
