@@ -213,7 +213,12 @@ todos_dashboards = {
         "nome": "Vendas Maio - Ribeirão Preto",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiYzVhNWIxMTQtOWQxMC00ZWI1LWE0MDMtN2E3ZmRhZGY2MjYyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
-    }                          
+    },
+    "Campanha_Davines_Rede": {
+        "nome": "Campanha Davines - Rede",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZGY1NWI1MzktOWY0Yy00NTM4LWE0ZTMtMzk4ZmY0Yzk5YTUzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    }                             
     
 
 
