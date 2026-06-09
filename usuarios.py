@@ -67,7 +67,7 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Rede"
+            "Campanha_Davines_Rebouças"
 
 
         ]
@@ -90,7 +90,7 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Rede"
+            "Campanha_Davines_Higienopolis"
         ]
     },
     "gjk": {
@@ -111,7 +111,7 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Rede"
+            "Campanha_Davines_JK"
         ]
     },
     "gritu": {
@@ -119,7 +119,6 @@ usuarios = {
         "senha": "PwbiRitu@1812",
         "acesso": [
             "Campanha_Davines_Ritu"
-            "Campanha_Davines_Rede"
         ]
     },
     "gcampinas": {
@@ -161,7 +160,7 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Rede"
+            "Campanha_Davines_Ribeirão"
            
         ]
     },

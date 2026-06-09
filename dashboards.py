@@ -218,7 +218,27 @@ todos_dashboards = {
         "nome": "Campanha Davines - Rede",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiZGY1NWI1MzktOWY0Yy00NTM4LWE0ZTMtMzk4ZmY0Yzk5YTUzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
-    }                             
+    },
+    "Campanha_Davines_Rebouças": {
+        "nome": "Campanha Davines - Rebouças",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZjQxZjJjNjktZGIxMC00YTgxLTg2NTItYjg3ZTA1OTkzYjVmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Davines_Higienopolis": {
+        "nome": "Campanha Davines - Higienópolis",
+        "icone": "dashboard4.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZjNhZTUyNTMtZmUxMC00M2VlLWFiNzMtZDk0OTVhNzMzOTAzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Davines_JK": {
+        "nome": "Campanha Davines - JK",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNTE1YjRmZDMtMGEyNy00ODU1LWIwMDEtYmI2YjAxOTFkYTc4IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Davines_Ribeirão": {
+        "nome": "Campanha Davines - Ribeirão Preto",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZGY1NWI1MzktOWY0Yy00NTM4LWE0ZTMtMzk4ZmY0Yzk5YTUzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    }                                     
     
 
 
