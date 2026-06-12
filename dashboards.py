@@ -237,7 +237,7 @@ todos_dashboards = {
     "Campanha_Davines_Ribeirão": {
         "nome": "Campanha Davines - Ribeirão Preto",
         "icone": "dashboard3.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZGY1NWI1MzktOWY0Yy00NTM4LWE0ZTMtMzk4ZmY0Yzk5YTUzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNzkzOTk4NjgtNDRiNy00MTM2LTlhOTQtOTkyOWVlMjJjODE3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     }                                     
     
 
