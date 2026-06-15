@@ -67,7 +67,8 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Rebouças"
+            "Campanha_Davines_Rebouças",
+            "Campanha_Davines_Geral_Sem_Pontuação"
 
 
         ]
@@ -90,7 +91,8 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Higienopolis"
+            "Campanha_Davines_Higienopolis",
+            "Campanha_Davines_Geral_Sem_Pontuação"
         ]
     },
     "gjk": {
@@ -111,7 +113,8 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_JK"
+            "Campanha_Davines_JK",
+            "Campanha_Davines_Geral_Sem_Pontuação"
         ]
     },
     "gritu": {
@@ -138,7 +141,8 @@ usuarios = {
             "Campanha_Wella_Assistentes_Dezembro",
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
-            "Campanha_Wella_Coloração"
+            "Campanha_Wella_Coloração",
+            "Campanha_Davines_Geral_Sem_Pontuação"
         ]
     },
     "gribeirao": {
@@ -159,7 +163,8 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Ribeirão"
+            "Campanha_Davines_Ribeirão",
+            "Campanha_Davines_Geral_Sem_Pontuação"
            
         ]
     },

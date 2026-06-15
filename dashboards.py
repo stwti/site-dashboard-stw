@@ -238,7 +238,12 @@ todos_dashboards = {
         "nome": "Campanha Davines - Ribeirão Preto",
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNzkzOTk4NjgtNDRiNy00MTM2LTlhOTQtOTkyOWVlMjJjODE3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
-    }                                     
+    },
+    "Campanha_Davines_Geral_Sem_Pontuação": {
+        "nome": "Campanha Davines - Geral",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZjFkN2YxMzEtODA4OC00ZWU5LTgyNzctOTIwODkxNGRiYTJiIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    }                                       
     
 
 
