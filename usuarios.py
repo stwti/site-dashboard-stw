@@ -143,6 +143,7 @@ usuarios = {
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Geral_Sem_Pontuação"
+            "Campanha_Davines_Campinas"
         ]
     },
     "gribeirao": {
@@ -259,7 +260,8 @@ usuarios = {
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Ritu",
-            "Campanha_Davines_Rede"
+            "Campanha_Davines_Rede",
+            "Campanha_Davines_Geral_Sem_Pontuação"
         ]
     },
     "financeirow": {
