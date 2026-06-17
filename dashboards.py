@@ -243,6 +243,26 @@ todos_dashboards = {
         "nome": "Campanha Davines - Geral",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiZjFkN2YxMzEtODA4OC00ZWU5LTgyNzctOTIwODkxNGRiYTJiIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Junho_Higienopolis": {
+        "nome": "Vendas Junho - Higienópolis",
+        "icone": "dashboard4.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZWQ2NWFkNWUtYThmNi00YmUyLWE4OTctOWI1MTVlMzgzMTRlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Junho_Campinas": {
+        "nome": "Vendas Junho - Campinas",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiYjlkZTg5OWItZjhlZC00YzE3LWIwMmQtMjlhYzAxMDI2NmY3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Junho_JK": {
+        "nome": "Vendas Junho - JK",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiOTBhNjM3MmMtNGIwNy00ZTQzLThhNGYtZWU3MmE0ZDZkYzg2IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Junho_Ribeirão": {
+        "nome": "Vendas Junho - Ribeirão Preto",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMjE4MGZmNDAtOTc3OS00MjYzLWFlNDYtNWMwMmUwMDkyMTg5IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     }                                       
     
 
