@@ -263,7 +263,17 @@ todos_dashboards = {
         "nome": "Vendas Junho - Ribeirão Preto",
         "icone": "dashboard1.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiMjE4MGZmNDAtOTc3OS00MjYzLWFlNDYtNWMwMmUwMDkyMTg5IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
-    }                                       
+    },
+    "Vendas_Julho_JK": {
+        "nome": "Vendas Julho - JK",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNzY1NDU5YTctNjc3My00YTQwLTgwM2ItZWI3MzNmYzA1MjJmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Julho_Higienopolis": {
+        "nome": "Vendas Julho - Higienópolis",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMmU4OGFlYTgtNzVlNy00YzRlLWFjNzAtYzNhODlmODNlYzJkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    }                                          
     
 
 
