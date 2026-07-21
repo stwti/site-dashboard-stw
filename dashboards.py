@@ -239,6 +239,11 @@ todos_dashboards = {
         "icone": "dashboard3.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNzkzOTk4NjgtNDRiNy00MTM2LTlhOTQtOTkyOWVlMjJjODE3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
     },
+    "Campanha_Davines_Campinas": {
+        "nome": "Campanha Davines - Campinas",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMjRlYzk5ODAtMDcyNC00YmNlLWI5ZTgtYTcxZmY1ODhhNjhkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
     "Campanha_Davines_Geral_Sem_Pontuação": {
         "nome": "Campanha Davines - Geral",
         "icone": "dashboard1.png",
