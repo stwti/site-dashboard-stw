@@ -154,8 +154,8 @@ usuarios = {
             "Campanha_Loreal_Tratamento_Dezembro",
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
-            "Campanha_Davines_Geral_Sem_Pontuação"
-            "Campanha_Davines_Campinas"
+            "Campanha_Davines_Geral_Sem_Pontuação",
+            "Campanha_Davines_Campinas",
         ]
     },
     "gribeirao": {
