@@ -278,10 +278,24 @@ todos_dashboards = {
         "nome": "Vendas Julho - Higienópolis",
         "icone": "dashboard2.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiMmU4OGFlYTgtNzVlNy00YzRlLWFjNzAtYzNhODlmODNlYzJkIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
-    }                                          
+    },
+    "Vendas_Julho_Campinas": {
+        "nome": "Vendas Julho - Campinas",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiODdmODVlMzAtZjJhNS00MzY3LWFhY2EtODZlYTZiOTdmNDdmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Julho_Ribeirão": {
+        "nome": "Vendas Julho - Ribeirão Preto",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiN2E5NDdhMTgtODFlMC00MzJhLWFlMGMtZTA1MTc3YzdlMjIyIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Vendas_Julho_Rebouças": {
+        "nome": "Vendas Julho - Rebouças",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMTRiNmExNzctOWQwZC00YzkyLWEyNDAtY2U0MWEyZjUzN2UzIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"                                      
     
 
-
+    }
 
 
 }
