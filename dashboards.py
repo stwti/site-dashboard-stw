@@ -343,7 +343,7 @@ todos_dashboards = {
     "Vendas_Setembro_Rebouças": {
         "nome": "Vendas Setembro - Rebouças",
         "icone": "dashboard2.png",
-        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMjhiMDYzOTQtYzA4ZC00ZDRlLTlmZjItNTg1ZDQ3Y2MyMGNlIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"   
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNDI0OTZiZDctZjc3OC00ODUzLWJjYzEtN2E3MGQ5OTVmMjg0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"   
 
     }
 }
