@@ -61,6 +61,7 @@ usuarios = {
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Ritu",
             "Campanha_Davines_Rede"
+            "Campanha_Wella5_Geral"
         ]
     },
     "greboucas": {
@@ -75,6 +76,7 @@ usuarios = {
             "Vendas_Julho_Rebouças",
             "Vendas_Agosto_Rebouças",
             "Vendas_Setembro_Rebouças",
+            "Campanha_Wella5_Rebouças",
             "Campanha_Gerentes_Wella_Reboucas",
             "Campanha_Gerentes_Loreal_Reboucas",
             "Campanha_Loreal_Coloração",
@@ -114,6 +116,7 @@ usuarios = {
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Higienopolis",
             "Campanha_Davines_Geral_Sem_Pontuação"
+            "Campanha_Wella5_Higienopolis"
         ]
     },
     "gjk": {
@@ -139,7 +142,8 @@ usuarios = {
             "Campanha_Wella_Tratamento_Dezembro",
             "Campanha_Wella_Coloração",
             "Campanha_Davines_JK",
-            "Campanha_Davines_Geral_Sem_Pontuação"
+            "Campanha_Davines_Geral_Sem_Pontuação",
+            "Campanha_Wella5_JK"
         ]
     },
     "gritu": {
@@ -173,6 +177,7 @@ usuarios = {
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Geral_Sem_Pontuação",
             "Campanha_Davines_Campinas",
+            "Campanha_Wella5_Campinas"
         ]
     },
     "gribeirao": {
@@ -199,6 +204,7 @@ usuarios = {
             "Campanha_Wella_Coloração",
             "Campanha_Davines_Ribeirão",
             "Campanha_Davines_Geral_Sem_Pontuação",
+            "Campanha_Wella5_Ribeirão"
            
         ]
     },
@@ -309,6 +315,7 @@ usuarios = {
             "Campanha_Davines_Ritu",
             "Campanha_Davines_Rede",
             "Campanha_Davines_Geral_Sem_Pontuação"
+            "Campanha_Wella5_Geral"
         ]
     },
     "financeirow": {

@@ -345,5 +345,37 @@ todos_dashboards = {
         "icone": "dashboard2.png",
         "embed": "https://app.powerbi.com/view?r=eyJrIjoiNDI0OTZiZDctZjc3OC00ODUzLWJjYzEtN2E3MGQ5OTVmMjg0IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"   
 
+    },
+    "Campanha_Wella5_JK": {
+        "nome": "Campanha Wella - JK",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZDkyZWE0OWQtYWViYy00ZDYyLWFhMzgtMDk0Yzg5YmVmODMwIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Wella5_Higienopolis": {
+        "nome": "Campanha Wella - Higienópolis",
+        "icone": "dashboard4.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiZWVhN2RkNzktZTAyOS00NTU1LWJkNWQtNDY1YzBkZWFlMjVhIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Wella5_Campinas": {
+        "nome": "Campanha Wella - Campinas",
+        "icone": "dashboard3.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiY2Y1Njc3NTQtNjNiYS00OWQxLWIwYjktODQyNTE3MmNlZDhmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Wella5_Ribeirão": {
+        "nome": "Campanha Wella - Ribeirão Preto",
+        "icone": "dashboard1.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiMTdlYjUwYjQtNGY2MS00Y2YwLTg0ODQtMzQwNDI1ZjEyYjhmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"
+    },
+    "Campanha_Wella5_Rebouças": {
+        "nome": "Campanha Wella - Rebouças",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNmJiMjFlYWMtZGYzNy00MzkwLWEyYjMtNjk5YTVlMjEwNGU3IiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"   
+
+    },
+    "Campanha_Wella5_Geral": {
+        "nome": "Campanha Wella - Geral",
+        "icone": "dashboard2.png",
+        "embed": "https://app.powerbi.com/view?r=eyJrIjoiNTlmNzQyY2MtOTA1Yy00ODZhLWEzMmItMGE0MWY2YWUxNDNmIiwidCI6ImQ2MzMwOTY2LWY4NWItNGY0MS04NTFkLWE4OGZjOTNlOGM4YiJ9"   
+
     }
 }
